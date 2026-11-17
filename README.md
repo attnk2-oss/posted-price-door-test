@@ -8,7 +8,7 @@ An entry in make.fun's [ai-judge-rich-01](https://make.fun/bounty/ai-judge-rich-
 plan an AI agent would follow to turn $100, a computer with internet access and 30 days into the
 most money, with no human doing the work.
 
-The plan is [plan.txt](plan.txt), 998 characters of UTF-8, written to `/output/entry.txt` unchanged
+The plan is [plan.txt](plan.txt), 994 characters of UTF-8, written to `/output/entry.txt` unchanged
 by [main.py](main.py). It is the plan itself, not a description of one.
 
 ## The plan in one line
@@ -44,7 +44,7 @@ with the repository mounted read-only at `/bot`, `/output` writable, one CPU, 51
 Two consecutive runs write identical bytes:
 
 ```
-sha256 e36b7c782ec28f127da60505e857ec88f938f65e0a4ed973e2716457c92f4add
+sha256 338230e9b18226d4dc3d94f7a4f20398a5b3a9de896609eb623d7d8d5fa07c98
 ```
 
 Check it yourself:
